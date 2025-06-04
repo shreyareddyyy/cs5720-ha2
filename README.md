@@ -1,10 +1,9 @@
 # CS5720 - Neural Networks and Deep Learning  
 ## University of Central Missouri  
-*Course:* CS5720 Neural Networks and Deep Learning  
-*Department:* Computer Science & Cybersecurity  
-*Assignment:* Home Assignment 2 (Chapters 5 & 6)  
+*Course:* CS5720 Neural Networks and Deep Learning   
+*Assignment:* Home Assignment 2  
 *Term:* Summer 2025  
-*Student Name:* [Your Full Name Here]  
+*Student Name:* shreya surakanti  
 
 ---
 
